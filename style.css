@@ -1,0 +1,14 @@
+.jumbotron
+{
+    text-align: center;
+}
+
+#top
+{
+    background-color: blue;
+}
+
+label
+{
+    font-weight:bold
+}
